@@ -556,12 +556,18 @@ Recommended screenshots:
 
 ```text
 screenshots/login.png
+<img width="1919" height="1079" alt="Screenshot 2026-08-16 113611" src="https://github.com/user-attachments/assets/cfb0db1b-28a9-432d-b740-3b13059028ae" />
+
+
 ```
 
 ### 2. Admin Dashboard
 
 ```text
 screenshots/admin-dashboard.png
+<img width="1919" height="1079" alt="Screenshot 2026-08-16 113629" src="https://github.com/user-attachments/assets/cdefbcbe-972b-494c-b964-ad7da2925f52" />
+
+
 ```
 
 ### 3. Student Management
@@ -573,44 +579,58 @@ screenshots/student-management.png
 ### 4. Fee Structure
 
 ```text
+<img width="1919" height="1079" alt="Screenshot 2026-08-16 113751" src="https://github.com/user-attachments/assets/d35f8ffe-99b6-4f76-98ae-ed3ef388caa6" />
+
+
 screenshots/fee-structure.png
 ```
 
 ### 5. Student Dashboard
 
 ```text
+<img width="1919" height="1077" alt="Screenshot 2026-08-16 113844" src="https://github.com/user-attachments/assets/37a49771-dde2-407a-ad64-77ada84d12f7" />
+
+
 screenshots/student-dashboard.png
 ```
 
 ### 6. Semester-wise Fees
 
 ```text
+<img width="1919" height="1078" alt="Screenshot 2026-08-16 113908" src="https://github.com/user-attachments/assets/dbdbd685-45e6-451a-a3ae-eaf4fea0f303" />
+
+
 screenshots/student-fees.png
 ```
 
 ### 7. Razorpay Payment
 
 ```text
+<img width="1919" height="1079" alt="Screenshot 2026-08-16 114037" src="https://github.com/user-attachments/assets/146aa58b-68c0-4924-a54c-dbb1d156eb4a" />
+
+
 screenshots/razorpay-payment.png
 ```
 
 ### 8. Payment History
 
 ```text
+<img width="1919" height="1078" alt="Screenshot 2026-08-16 113908" src="https://github.com/user-attachments/assets/f842140d-ec0d-45ab-ad42-6be164ffb147" />
+
+
 screenshots/payment-history.png
 ```
 
 ### 9. PDF Receipt
 
 ```text
+<img width="1916" height="1079" alt="Screenshot 2026-08-16 114126" src="https://github.com/user-attachments/assets/1ad21cf1-3b50-416a-a6d2-f89700b77741" />
+
+
 screenshots/fee-receipt.png
 ```
 
-### 10. Admin Reports
-
-```text
-screenshots/reports.png
-```
+ 
 
 > Replace the paths above with your actual screenshots after creating a `screenshots` folder.
 
